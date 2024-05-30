@@ -30,11 +30,11 @@ Stay updated with our latest projects and insights:
 
 ## Contributions
 
-We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING.md) for more details.
+We welcome contributions! Please read our [Contributing Guidelines](/contributing/CONTRIBUTING.md) for more details.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
 
 ---
 

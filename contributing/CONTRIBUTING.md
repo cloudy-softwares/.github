@@ -4,7 +4,7 @@ Welcome to CloudySoftwares! Although we are currently a private organization, we
 
 ## Code of Conduct
 
-Please review and adhere to our [Code of Conduct](CODE_OF_CONDUCT.md) to ensure a respectful and inclusive environment.
+Please review and adhere to our [Code of Conduct](./CODE_OF_CONDUCT.md) to ensure a respectful and inclusive environment.
 
 ## How to Contribute
 
