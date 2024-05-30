@@ -18,8 +18,8 @@ Welcome to CloudySoftwares! We are a software development agency dedicated to pr
 
 ## Contact Us
 
-- **Email**: <a href="mailto:hello@cloudysoftwares.tech" target="_blank">hello@cloudysoftwares.tech</a>
-- **Website**: <a href="https://www.cloudysoftwares.tech" target="_blank">cloudysoftwares.tech</a>
+- **Email**: <a href="mailto:hello@cloudsoftwares.tech" target="_blank">hello@cloudysoftwares.tech</a>
+- **Website**: <a href="https://www.cloudsoftwares.tech" target="_blank">cloudysoftwares.tech</a>
 - **LinkedIn**: <a href="https://www.linkedin.com/company/cloudysoftware" target="_blank">CloudySoftwares</a>
 
 ## Follow Us
